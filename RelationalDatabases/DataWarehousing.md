@@ -15,4 +15,5 @@
 
 ### Star Schemas
 
-(https://github.com/jehanjoshi007/MediaAssets/blob/master/StarSchema.png | width="100" height="100")
+![StarSchema](https://github.com/jehanjoshi007/MediaAssets/blob/master/StarSchema.png")
+*image source :- https://www.mssqltips.com/ *
