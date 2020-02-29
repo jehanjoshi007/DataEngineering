@@ -15,4 +15,4 @@
 
 ### Star Schemas
 
-![Star Schema](https://github.com/jehanjoshi007/MediaAssets/blob/master/StarSchema.png)
+![Star Schema Src :- MSSqltips.com](https://github.com/jehanjoshi007/MediaAssets/blob/master/StarSchema.png | width="100" height="100")
